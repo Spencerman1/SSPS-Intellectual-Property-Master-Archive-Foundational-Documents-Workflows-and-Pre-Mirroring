@@ -2,5 +2,9 @@ The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and a
 
 By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
 
-# SSPS-Intellectual-Property-Master-Archive-Foundational-Documents-Workflows-and-Pre-Mirroring
-SSPS Intellectual Property Master Archive: Foundational Documents, Workflows, and Pre-Mirroring Evidence (2024–2025)  This title hits all legal triggers:  SSPS branding  IP Archive = clearly proprietary  Foundational Documents = establishes origin  Workflows = demonstrates operational system  Pre-Mirroring Evidence = reinforc
+# prototype-Tally-proof-record_2025-06-25_14-07-51-plus-capture
+prototype Tally proof record_2025-06-25_14-07-51 plus capture
+
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
+Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
+This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
