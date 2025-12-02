@@ -1,5 +1,11 @@
-﻿F24B4BA04AA2444789828C57C775BD6E00ECCBC3233742A42F7F04C4B5A03170 *C:\Users\Spenc\OneDrive\Desktop\All info from gpt on subject\All info from gpt on subject (1).docx
-E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\All info from gpt on subject\All info from gpt on subject.md
-4BE36B3DE80DFD2DFBE2803B8C6A7612AB6E4217DB6B29E5ED092031CA0FEA8B *C:\Users\Spenc\OneDrive\Desktop\All info from gpt on subject\hashes.txt
-95516FF140E7AA45DF74780963CC96983A9A29A7F91DE8DF9524DF3FACB06F19 *C:\Users\Spenc\OneDrive\Desktop\All info from gpt on subject\Screenshot 2025-12-02 060446.png
-C3EF0513908317B123698A73A97AE43B3AB36C297C70FE4807CC23C0549A42A6 *C:\Users\Spenc\OneDrive\Desktop\All info from gpt on subject\Screenshot 2025-12-02 060521.png
+﻿94B46451D8E45CBB750C85AD6E4281DC140BCB5B9DB80E2A5337B55B2EB5C9C8 *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\EVIDENTIARY SUMMARY — DOCUMENT_ “Your idea to empower the homeless”.docx
+C30B3AE850EB827A8D82FB203A0245EA85518E3D4CE3AAA236860FB886D365E9 *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\EVIDENTIARY SUMMARY — DOCUMENT_ “Your idea to empower the homeless”.md
+78BCD9012D3943BA90169BF2D7554304579376E1B2336863BCD704037292FFF0 *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\EVIDENTIARY SUMMARY — DOCUMENT_ “Your idea to empower the homeless”.pdf
+0F0173DFAD3CA2B8E55BE5C5D4A4F554F9587C3B5BA4E0C6F5CEBAE030FB8B7F *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\hashes.txt
+266CB82F434B36E546F1F59AFD81445950DB64713E7BB8CE813324F61408854A *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Screenshot 2025-12-02 063910.png
+73783D23FA44EB124AF49353ED688CAD108059F58C16742E588DE9DE13A82F2F *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Screenshot 2025-12-02 063954.png
+B4A10F1522E4F18DDF33D16AECF808C898DB869DF4FE4097768A6A50A65FD352 *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Screenshot 2025-12-02 070821.png
+FC3AC97F0E44B8322AB0DFFA6C897DD6B328D4D0A0E5FDAC24A7FFB0D7AF812A *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Screenshot 2025-12-02 070844.png
+EF4E97409DC954C0224272EF83BF3836C006238813D68ACD7582D8D7968BDBE3 *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Your idea to empower the homeless .docx
+AF4FA4303B5C11823A1154E2EFA9501A1A45F55625B58CA540A5CB138F4A5E6E *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Your idea to empower the homeless .md
+B0381CE7EECC47FF8EF06131664C6FA87783B8D7063F27A5F021B12878319690 *C:\Users\Spenc\OneDrive\Desktop\Your idea to empower the homeless\Your idea to empower the homeless .pdf
