@@ -1,27 +1,10 @@
-﻿92BCA3EAF80F22CA7F0B3E92C6AB63663695382BA79FE31F50C02AF845C9C0D5 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\COINBASE CORRESPONDENCE — FORENSIC & LEGAL WRITE-UP.docx
-D969F2559A098F06CC837E1D1316061C080EC580B451CC2ECFEFC74B792E95D2 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\COINBASE CORRESPONDENCE — FORENSIC & LEGAL WRITE-UP.md
-33C3F69EB682ECDB5D178A5F93178C568297375A39E968CCD777FE2C12E64CB1 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\FORENSIC ANALYSIS — X402 COLLECTIVE COLLUSION NETWORK.docx
-4F4C2ED32AC53FD0CEDDECA39B166BE7DA5FA291FB8DE3A751BB5BA1125862D5 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Formal Licensing Notification Letter (1).eml
-2C349C0BFA1C4BE5AC0E02D493070CE2FA5FF2EC57A36DEC7F8936DC0F3B2F71 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Formal Licensing Notification Letter.eml
-A48757346D2CF53515734F425B1C7792359FC2278D17BF65EF377F32304816E0 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\hashes.txt
-A1266CE287F15D6CD5F4D79A49E9DA3FA887F89184EB503C705FF022BA6866BF *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Let’s compare. case sizes.docx
-97F79CBFA0BE1E09DE5C1511ED15E19756CA87557FD4BDB64145B13FC4E06F6F *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Let’s compare. case sizes.md
-04B5113C2603B716CFFA464E379EAB0460122786C46A79A47FA8BBD64D91B022 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Mint-to-Logic_Licensing_Demand_Letter.docx
-02342449E7F75D80EBF8E2DC32325FC04FCE34A4F65B350850F3B991F67892E3 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191122.png
-810FF85650C044356A1454D448CCE9A230543F50639A8038BEB3ADA737F099A7 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191150.png
-A00EA26056211C09E1D3A218600E33CBF2064376530C8898B37A3D9F887066C4 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191207.png
-48CB638C9EE256DFFEABBA12D1331759295F7304380B97CD35A84A57AAEC2096 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191219.png
-2CC3F186D8B59F0BA8A923EC4A83D028F72397CF7337F4BF61629E01F6868D86 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191247.png
-9A8E09C82C2F27F47A4D558DEED18FEA7185C62A18752712DE9BAD8D16DDF31A *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191258.png
-C29D9DCE390C5B091E371748B2CC1CFD2DC278F303DB687419B8D2C4A0633EDE *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191306.png
-92764CA2F23A175EB9546F9B30ADB67E0DC8EB75AA4250522A3983FBE09DA5E0 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 191315.png
-468C574F373CA69B95CA47473D2ECED7827E3F0AA44352438581D23AFBCAF875 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 193501.png
-BAFCA00CAC598F11F89222239ADE3B03C3484E2795755D05F741F9E044F49CC9 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 193527.png
-2D1EE07682AE9FA7A856D62C46756FDB9784657DEA735ABA97B5B58F676EC756 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 193915.png
-182C44A02682852FD3D71F4D0CAF50C0C2500EF58846924586B9F60E1D2621EF *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 193939.png
-008356FF1957D8C7B1D007F46974BFD01A4872BF9B23C6CC8502328D3207C7BF *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 194435.png
-76C7D61E5D3E7784ACFED630ADD7367AFC61D4ECD454DB98ECC04E68AE08FFE0 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\Screenshot 2025-12-02 194457.png
-5C6682F1641403464B3216B9192D0C349DAF7A34BD92AEA928D38693A7050E86 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\The Coinbase x402 GitHub repository (1).pdf
-A9B22F6FEFD392C922519E6ECDBBEAB8DB2E375C9C607659CCDD76BCEBB1851D *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\X402 launch graphic 2025-11-30 042436.png
- *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\[External] Formal Licensing Notification Letter.eml
-AF866CC710083133AB7A1C002F40106B350B182BCC4396D70AB7DDB8A1318651 *C:\Users\Spenc\OneDrive\Desktop\Coinbase email correspondence\📌 Proof #8_ Coinbase’s x402 Protocol Mirrors Mint-to Logic™ (May 6, 2025 Release).pdf
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\hashes.txt
+6A93014B04FCE2D6F4316234138A8C6FC762ABD7A0A063BC427C7045B4294372 *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\interdimensional (or non-linear) data transferring —.docx
+294DF1FFEA9A9AAB560836BB150C101F681AC1C3615C5E2F54808CC599BD4BDA *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\interdimensional (or non-linear) data transferring —.md
+32A9987EC598703885F5510EB679D9ECB09A027E85FE41CDCB9CCCE6801AF643 *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\Screenshot 2025-12-03 105730.png
+4709F7079C06C2841B805999D0DB007EA3EB52DB2B2A30AA80776FFE095CC99E *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\Screenshot 2025-12-03 105804.png
+8107B219954AA7A84D21C09C5694C256090A36D2F88256B523DD7AF78010CBFF *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\Screenshot 2025-12-03 135927.png
+A6A7F324DBBA2BDFA361AF83774EBB2436771199672390385DDF0EE98A4E910C *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\Screenshot 2025-12-03 140002.png
+8D2E750A8C242B3302AF65C8B806215B1CAA9EE7B12FBD5D1EAE51E5AE061B58 *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\WHY THIS DOCUMENT IS EXTREMELY IMPORTANT (FORENSIC VALUE).docx
+280CCBFF424D063069813882895FD2C73254108A2871B3557B32294971A1DA38 *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\WHY THIS DOCUMENT IS EXTREMELY IMPORTANT (FORENSIC VALUE).md
+5DDA71F76F385DBC43BC4CD85C6A0DF279C3D0333A3220A57FC334AB71FC449D *C:\Users\Spenc\OneDrive\Desktop\interdimensional (or non-linear) data transferring\WHY THIS DOCUMENT IS EXTREMELY IMPORTANT (FORENSIC VALUE).pdf
